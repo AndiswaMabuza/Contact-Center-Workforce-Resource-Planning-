@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-plotly
-prophet
-scikit-learn
-matplotlib
